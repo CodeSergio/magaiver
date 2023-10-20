@@ -1,0 +1,2 @@
+# magaiver
+automatizaciones generales 
